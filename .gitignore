@@ -2,3 +2,5 @@
 */target/*
 .idea
 /grafana_prometheus/app/target
+/jaeger_opentelemetry/logs/app/target
+/postgres/data*
